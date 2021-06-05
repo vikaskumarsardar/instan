@@ -1,0 +1,24 @@
+.new {
+    font-size: calc(1px + 2vmax);
+    text-align: center;
+}
+
+body {
+
+    background: rgba(51, 121, 153, 0.205);
+}
+
+.sec {
+    height: 30vh;
+    background: purple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.k {
+    background: white;
+    height: 20vmin;
+    width: 25vw;
+}

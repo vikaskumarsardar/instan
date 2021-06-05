@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.mr {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1280px;
+}
+
+.Plus {
+  background: yellow;
+  /* margin-top: 1px; */
+
+}
+
+html {
+  /* line-height: 1.15; */
+}
+
+span {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 30px;
+}
+
+.swa {
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+  height: 100vmin;
+  flex-direction: column;
+  text-align: center;
+  background: white;
+  align-items: center;
+
+}
